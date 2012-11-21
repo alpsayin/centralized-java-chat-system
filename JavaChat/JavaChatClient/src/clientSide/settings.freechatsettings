@@ -1,0 +1,10 @@
+//this file is for setting constants
+//encryptionKey=03011990
+//serverAddress=10.3.21.129
+//requestPort=45538
+//listPort=45537
+//serverMessageListener=45536
+//clientMessageSender=45536
+//serverMessageSender=45535
+//clientMessageListener=45535
+socketTimeout=1000
